@@ -1,0 +1,75 @@
+{
+  "studentName": "Clark Kent",
+  "grade": "10",
+  "age": "16",
+  "selfAssessment": {
+    "academicStrengths": [
+      "Math and science",
+      "Writing and language arts",
+      "History and social studies"
+    ],
+    "academicChallenges": [
+      "Sometimes I rush through assignments",
+      "Balancing all my responsibilities",
+      "Staying focused when there are distractions"
+    ],
+    "learningPreferences": [
+      "Hands-on activities",
+      "Visual demonstrations",
+      "Reading independently",
+      "Working on real-world problems"
+    ]
+  },
+  "interestsAndGoals": {
+    "favoriteSubjects": [
+      "Science",
+      "Journalism",
+      "Ethics"
+    ],
+    "careerInterests": [
+      "Journalism",
+      "Science",
+      "Helping others"
+    ],
+    "shortTermGoals": [
+      "Improve my writing skills",
+      "Learn more advanced mathematics",
+      "Balance school work with other responsibilities"
+    ],
+    "longTermGoals": [
+      "Attend a good college",
+      "Find a career where I can help people",
+      "Make a positive difference in the world"
+    ]
+  },
+  "schoolExperience": {
+    "favoriteClassActivities": [
+      "Group discussions",
+      "Science experiments",
+      "Writing articles for the school paper"
+    ],
+    "challengingClassActivities": [
+      "Speaking in front of large groups",
+      "Competitive activities where others might get hurt"
+    ],
+    "helpfulAccommodations": [
+      "Extra time when needed",
+      "Quiet space to work when things get overwhelming"
+    ]
+  },
+  "supportNeeds": {
+    "academicSupport": [
+      "Guidance on career paths",
+      "Advanced learning opportunities"
+    ],
+    "environmentalSupport": [
+      "Understanding when I might need to step out of class briefly",
+      "Flexibility when family responsibilities arise"
+    ],
+    "socialEmotionalSupport": [
+      "Help balancing my responsibilities",
+      "Understanding my unique background and circumstances"
+    ]
+  },
+  "additionalComments": "I really want to do well in school and use my abilities to help others. Sometimes I feel like I'm different from other students, but I'm trying to find my place. I appreciate teachers who challenge me intellectually while understanding that I'm still figuring out who I am and what I can do with my life."
+}
