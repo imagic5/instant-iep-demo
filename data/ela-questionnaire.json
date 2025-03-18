@@ -1,0 +1,34 @@
+{
+  "studentName": "Clark Kent",
+  "grade": "10",
+  "readingLevel": "12th grade",
+  "writingLevel": "11th grade",
+  "comprehensionSkills": "Advanced",
+  "strengths": [
+    "Strong vocabulary",
+    "Excellent comprehension of complex texts",
+    "Ability to analyze literary themes in depth",
+    "Clear and organized writing structure"
+  ],
+  "challenges": [
+    "Sometimes struggles with time management on assignments",
+    "Tends to rush through proofreading"
+  ],
+  "accommodations": [
+    "Extended time for writing assignments",
+    "Access to word processing software for essays",
+    "May benefit from graphic organizers for complex projects"
+  ],
+  "goals": [
+    "Improve proofreading skills",
+    "Develop more sophisticated analysis of author's intent",
+    "Expand use of varied sentence structures in writing"
+  ],
+  "assessmentResults": {
+    "standardizedTestScore": 95,
+    "vocabularyAssessment": 98,
+    "writingRubricScore": 92,
+    "readingComprehension": 96
+  },
+  "comments": "Clark is an exceptional student who demonstrates advanced literacy skills across all areas. He has a natural talent for analyzing complex texts and expressing sophisticated ideas in writing. His comprehension skills are well above grade level. With some additional focus on careful proofreading and time management, he could excel even further."
+}
