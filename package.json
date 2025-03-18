@@ -1,0 +1,31 @@
+{
+  "name": "instant-iep-demo",
+  "version": "1.0.0",
+  "description": "Automated demonstration of the InstantIEP workflow using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagic5/instant-iep-demo.git"
+  },
+  "keywords": [
+    "IEP",
+    "education",
+    "automation",
+    "puppeteer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imagic5/instant-iep-demo/issues"
+  },
+  "homepage": "https://github.com/imagic5/instant-iep-demo#readme",
+  "dependencies": {
+    "puppeteer": "^22.0.0",
+    "mongodb": "^6.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
